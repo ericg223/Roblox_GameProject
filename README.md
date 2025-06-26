@@ -10,6 +10,7 @@
 | ❌ | Crafting |
 | ❌ | Leaderboards |
 
+[A deeper list of things I want to add into the game](https://docs.google.com/document/d/1pAJXQJgsqTSr9MutvI19P4F2bLF-jmj-z-2WQ0_Seow/edit?tab=t.0)
 ## 🕒 Project History
 - **2/3/24**: I was thinking about this game idea.
 - **9/21/24**: Took many breaks in between and I revamped the game with better scripts.
